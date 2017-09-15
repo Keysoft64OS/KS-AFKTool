@@ -7,7 +7,9 @@ License: GPLv3
 
 Github: /Keysoft64OS/KS-AFKTool
 
+Here is a preview of the program itself
 
+![Alt text](https://raw.githubusercontent.com/Keysoft64OS/KS-AFKTool/master/isitlegit.PNG "Main interface")
 
 
 # Questions?
@@ -26,3 +28,4 @@ Question 3: How do I move the widget
 Answer 3: Click the [+] on the top left
 
 I look forward to answering your questions about this program
+
